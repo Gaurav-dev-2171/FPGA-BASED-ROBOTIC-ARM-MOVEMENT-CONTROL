@@ -1,4 +1,4 @@
-# Projects-3-FPGA-BASED-ROBOTIC-ARM-MOVEMENT-CONTROL
+# FPGA-BASED-ROBOTIC-ARM-MOVEMENT-CONTROL
                           `ABSTRACT`
 In this era of fast-paced technological advancements, automation has become an integral part of almost every 
 industry, from manufacturing to healthcare. When we think of automation, we often envision robots, which 
